@@ -66,7 +66,7 @@
         "@univerjs/protocol": "0.1.39-alpha.30",
         "@wendellhu/redi": "0.16.1",
         "kdbush": "^4.0.2",
-        "lodash-es": "^4.17.21",
+        "lodash-es": "^4.17.23",
         "nanoid": "5.0.7",
         "numeral": "^2.0.6",
         "numfmt": "^2.5.2",
